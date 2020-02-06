@@ -4,7 +4,7 @@
     In this case, we want you to extend the built-in Array class with the following methods: 
     square(), cube(), average(), sum(), even() and odd().
 
-    @description:
+    @description
     square() must return a copy of the array, containing all values squared
 
     cube() must return a copy of the array, containing all values cubed
